@@ -6,9 +6,7 @@ Bachelor of Science. Web Developer.
 
 Front-End Developer with a passion for learning and utilizing new technologies. 
 
-I am always eager to take on challenging projects and continuously improve my skills and knowledge. 
-
-Additionally, I have a keen interest in web3 and blockchain technology and its potential applications in the future.
+Always eager to take on challenging projects and continuously improve my skills and knowledge.
 
 * ✉️  You can contact me at [vasil.htosev@gmail.com](mailto:vasil.htosev@gmail.com)
 
