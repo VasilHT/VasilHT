@@ -1,17 +1,19 @@
-Hi there 👋 My name is Vasil
-================
+Vasil HT
+Bachelor of Science in Computer Science | Frontend Engineer & SEO Specialist
 
-Bachelor of Science. Web Developer.
------------------------------------
+Overview
+I am a seasoned Frontend Developer and SEO Specialist with extensive experience in designing and delivering high-performance, user-centric web applications. My expertise spans modern JavaScript frameworks, responsive design, and advanced search engine optimization strategies, enabling businesses to achieve optimal digital presence and user engagement. I specialize in leveraging cutting-edge technologies to build scalable, accessible, and visually appealing solutions while ensuring alignment with industry best practices.
+With a proven track record of leading complex projects, I excel in architecting intuitive interfaces, optimizing web performance, and driving organic traffic through strategic SEO implementations. My commitment to continuous professional development ensures I stay at the forefront of web development and digital marketing trends.
 
-Front-End Developer with a passion for learning and utilizing new technologies. 
+Contact: vasil.htosev@gmail.com
 
-Always eager to take on challenging projects and continuously improve my skills and knowledge.
+### Technical Expertise
 
-* ✉️  You can contact me at [vasil.htosev@gmail.com](mailto:vasil.htosev@gmail.com)
-
-### Skills
-
+- **Frontend Development**: Proficient in crafting robust, scalable applications using Next.js, React, JavaScript (ES6+), TypeScript, HTML5, and CSS3. Expertise in building responsive, accessible interfaces with frameworks like Bootstrap and Material UI.
+- **UI/UX Design**: Skilled in translating complex requirements into intuitive designs using Figma, ensuring seamless user experiences and pixel-perfect implementations.
+- **Version Control**: Advanced proficiency with Git for collaborative development, code versioning, and streamlined workflows.
+- **Search Engine Optimization (SEO)**: Deep expertise in on-page and technical SEO, including keyword strategy, site architecture optimization, and performance enhancements to maximize search visibility and rankings.
+- **Web Performance**: Experienced in optimizing frontend performance through code splitting, lazy loading, and efficient asset management to deliver fast, reliable user experiences.
 
 <p align="left">
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs.svg" width="36" height="36" alt="Next.js" /></a>
@@ -24,15 +26,14 @@ Always eager to take on challenging projects and continuously improve my skills 
 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-
 </p>
 
+### Professional Presence
 
-### Socials
-
-<p align="left"> <a href="https://www.github.com/VasilHT" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/vasilht" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-
+<p align="left">
+<a href="https://www.github.com/VasilHT" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/vasilht" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+</p>
 
 
 
