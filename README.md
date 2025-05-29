@@ -1,15 +1,15 @@
-### Vasil HT
-Bachelor of Science | Frontend Engineer & SEO Specialist
+# Vasil HT
+**Bachelor of Science | Frontend Engineer & SEO Specialist**
 
 ### Overview
 I am a seasoned Frontend Developer and SEO Specialist with extensive experience in designing and delivering high-performance, user-centric web applications. My expertise spans modern JavaScript frameworks, responsive design, and advanced search engine optimization strategies, enabling businesses to achieve optimal digital presence and user engagement. I specialize in leveraging cutting-edge technologies to build scalable, accessible, and visually appealing solutions while ensuring alignment with industry best practices.
 With a proven track record of leading complex projects, I excel in architecting intuitive interfaces, optimizing web performance, and driving organic traffic through strategic SEO implementations. My commitment to continuous professional development ensures I stay at the forefront of web development and digital marketing trends.
 
-Contact: vasil.htosev@gmail.com
+* **Contact**: vasil.htosev@gmail.com
 
 ### Technical Expertise
 
-- **Frontend Development**: Proficient in crafting robust, scalable applications using Next.js, React, JavaScript (ES6+), TypeScript, HTML5, and CSS3. Expertise in building responsive, accessible interfaces with frameworks like Bootstrap and Material UI.
+- **Frontend Development**: Proficient in crafting robust, scalable applications using Next.js, React, JavaScript (ES6+), TypeScript, HTML5, CSS3, Tailwind CSS, Styled Components, and Material UI. Expertise in building responsive, accessible interfaces with modern styling solutions.
 - **UI/UX Design**: Skilled in translating complex requirements into intuitive designs using Figma, ensuring seamless user experiences and pixel-perfect implementations.
 - **Version Control**: Advanced proficiency with Git for collaborative development, code versioning, and streamlined workflows.
 - **Search Engine Optimization (SEO)**: Deep expertise in on-page and technical SEO, including keyword strategy, site architecture optimization, and performance enhancements to maximize search visibility and rankings.
@@ -22,7 +22,8 @@ Contact: vasil.htosev@gmail.com
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind CSS" /></a>
+<a href="https://styled-components.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/styledcomponents-colored.svg" width="36" height="36" alt="Styled Components" /></a>
 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
