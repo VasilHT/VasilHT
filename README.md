@@ -3,6 +3,7 @@
 
 ### Overview
 I am a seasoned Frontend Developer and SEO Specialist with extensive experience in designing and delivering high-performance, user-centric web applications. My expertise spans modern JavaScript frameworks, responsive design, and advanced search engine optimization strategies, enabling businesses to achieve optimal digital presence and user engagement. I specialize in leveraging cutting-edge technologies to build scalable, accessible, and visually appealing solutions while ensuring alignment with industry best practices.
+
 With a proven track record of leading complex projects, I excel in architecting intuitive interfaces, optimizing web performance, and driving organic traffic through strategic SEO implementations. My commitment to continuous professional development ensures I stay at the forefront of web development and digital marketing trends.
 
 * **Contact**: vasil.htosev@gmail.com
